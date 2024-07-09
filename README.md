@@ -1,9 +1,5 @@
 # Activité Pratique N°6 - Architectures Micro-services
 
-Ce projet est divisé en deux parties, chacune correspondant à une branche différente :
-- La partie 1 se trouve dans la branche `part1`.
-- La partie 2 se trouve dans la branche `part2`.
-
 ## Partie 1
 
 ### Micro Service avec Web Service RESTFUL
